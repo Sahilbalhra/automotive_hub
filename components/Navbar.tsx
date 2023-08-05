@@ -7,9 +7,11 @@ const Navbar = () => {
         <header className="w-full absolute z-10">
             <nav className="max-w-[1440px] mx-auto flex justify-between items-center sm:px-16 py-4">
                 <Link href={"/"} className="flex justify-center items-center">
-                    <Image src="/logo.svg" alt="Automative Hub logo" width={118} height={18} className="object-contain" />
+                    <Image src="/logo.svg" alt="Automative Hub logo" width={180} height={18} className="object-contain" />
+                    <h3 className="text-[30px] font-extrabold -ml-[110px] text-slate-800">Automotive Hub</h3>
+                    
                 </Link>
-                <CustomButton title={"Sign In"} containerStyles={"text-primary-blue rounded-full bg-white min-w-[130px]"} btnType="button" />
+                {/* <CustomButton title={"Sign In"} containerStyles={"text-primary-blue rounded-full bg-white min-w-[130px]"} btnType="button" /> */}
             </nav>
         </header>
     )
