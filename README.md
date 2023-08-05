@@ -1,4 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Automotive Hub
+
+Automotive Hub is a cutting-edge online platform that caters to all your car rental needs, offering an extensive collection of vehicles from various manufacturers and model years. Whether you need a car for a weekend getaway, a business trip, or simply want to experience driving your dream car, Automotive Hub has got you covered.
+
+
+
+
+## Key Features:
+
+1) Diverse Car Selection: CarHub boasts a vast and diverse inventory, housing cars from popular manufacturers worldwide, spanning various model years and categories. From compact city cars to luxurious sedans, powerful SUVs to sleek sports cars, there's a perfect vehicle for every occasion and preference.
+
+2) Intuitive Search and Filter: Our user-friendly interface allows you to easily search and filter through the available cars based on specific criteria such as make, model, year, price range, and more. This ensures you find the ideal car that suits your needs and budget quickly and efficiently.
+
+3) Comprehensive Car Profiles: Each car listed on CarHub comes with a detailed profile, featuring high-quality images, specifications, and comprehensive descriptions. This information allows you to gain a complete understanding of the car's features, capabilities, and unique selling points.
+
+
+## Demo
+
+https://automotive-hub.vercel.app/
+
+## Screenshots
+
+![AutoMotive Hub](https://github.com/Sahilbalhra/automotive_hub/assets/88921700/d44b535a-81dd-4af8-8542-0209aa03b7c8)
+
+
 
 ## Getting Started
 
